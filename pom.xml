@@ -85,6 +85,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>jenkins-docker</finalName>
 	</build>
 
 </project>
